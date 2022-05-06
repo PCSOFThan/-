@@ -1,0 +1,12 @@
+.Page_full{
+    position:absolute;
+    height:calc(100% - 5rem);
+    width:100%;
+}
+.next_page{
+    top:100%;
+}
+
+.y_100{
+    bottom:'-100%';
+}

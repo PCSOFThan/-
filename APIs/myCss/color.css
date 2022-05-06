@@ -1,0 +1,25 @@
+.BGblue{
+    background-color: aqua;
+}
+.BGgreen{
+    background-color: aquamarine;
+}
+.BGred{
+    background-color: red;
+}
+.blue{
+    background-color: aqua;
+}
+
+.color1{
+    background-color: aqua;
+}
+.color2{
+    background-color:aquamarine;
+}
+.color3{
+    background-color: rgba(255, 0, 0, 0.342);
+}
+.color4{
+    background-color: rgba(255, 251, 0, 0.781);
+}
